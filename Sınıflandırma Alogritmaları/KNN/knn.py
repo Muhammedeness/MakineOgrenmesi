@@ -1,3 +1,6 @@
+''''
+BU KOD geeksforgeeks SİTESİNDEN ALINMIŞTIR
+''''
 import math
 
 def classifyAPoint(points,p,k=3):
