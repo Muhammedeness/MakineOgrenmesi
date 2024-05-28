@@ -14,6 +14,8 @@ DOÇ.DR.FERHAT BOZKURT Derin Öğrenme (Deep Learning)
 
 https://www.youtube.com/@NeuralNine
 
+https://www.youtube.com/@codebasics
+
 https://scikit-learn.org/stable/
 
 
