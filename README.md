@@ -18,4 +18,6 @@ https://www.youtube.com/@codebasics
 
 https://scikit-learn.org/stable/
 
+https://www.analyticsvidhya.com/blog/
+
 
